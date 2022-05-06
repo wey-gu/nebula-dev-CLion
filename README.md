@@ -59,7 +59,7 @@ cmake -DENABLE_TESTING=OFF -DCMAKE_BUILD_TYPE=Release ..
   - `password`
 - Put `/opt/vesoft/toolset/cmake/bin/cmake` as CMake
 
-![preferences_toolchains](./images/preferences_CMake.png)
+![preferences_toolchains](https://github.com/wey-gu/nebula-dev-CLion/blob/main/images/preferences_toolchains.png)
 
 **CMake**
 
@@ -68,7 +68,7 @@ cmake -DENABLE_TESTING=OFF -DCMAKE_BUILD_TYPE=Release ..
 - Build directory:
   - `/home/nebula/build`
 
-![preferences_CMake](./images/preferences_CMake.png)
+![preferences_CMake](https://github.com/wey-gu/nebula-dev-CLion/blob/main/images/preferences_CMake.png)
 
 ## The appendix
 
